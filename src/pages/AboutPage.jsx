@@ -32,9 +32,7 @@ export default function AboutPage() {
             </div>
           </div>
           <div className="bg-white border border-teal/10 p-8">
-            <div className="w-full aspect-square max-w-xs mx-auto flex items-center justify-center bg-teal/[0.02] border border-teal/5">
-              <p className="text-teal/30 text-sm">صورة</p>
-            </div>
+            <img src="/من نحن.png" alt="عن السكن العقاري" className="w-full h-auto" />
           </div>
         </div>
       </section>
